@@ -1,1 +1,322 @@
-
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:torrent="http://xmlns.ezrss.it/0.1/dtd/" version="2.0">
+  <channel>
+    <title>YayPonies - MLP:FIM 1080P iTunes Raw US</title>
+    <link>/videos/rss/1it.rss</link>
+    <description>Original iTunes US Ponies in 1080P.</description>
+    <atom:link href="/videos/rss/1it.rss" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 12 Aug 2018 12:57:51 +0000</lastBuildDate>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x26 - Shadow Play (2) | 1080p.WEB-DL | YP-1T-07x26.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x26.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Shadow Play (2); Season: 7; Episode: 26</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1T-07x26.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1T-07x26.mkv.torrent" length="72898" type="application/x-bittorrent"/>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1T-07x26.mkv.torrent</torrent:filename>
+      <torrent:contentlength>938936740</torrent:contentlength>
+      <torrent:infohash>F0B6B8F91ED19BFBB52DC1D4EC0389882E9423ED</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:F0B6B8F91ED19BFBB52DC1D4EC0389882E9423ED</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x25 - Shadow Play (1) | 1080p.WEB-DL | YP-1T-07x25.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x25.mkv/link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Shadow Play (1); Season: 7; Episode: 25</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1T-07x25.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1T-07x25.mkv.torrent" length="73098" type="application/x-bittorrent"/>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1T-07x25.mkv.torrent</torrent:filename>
+      <torrent:contentlength>941360180</torrent:contentlength>
+      <torrent:infohash>8EE9A8AB082C09A7FB1A24782C31F05FF64CE24D</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:8EE9A8AB082C09A7FB1A24782C31F05FF64CE24D</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x24 - Uncommon Bond | 1080p.WEB-DL | YP-1T-07x24.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x24.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Uncommon Bond; Season: 7; Episode: 24</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1T-07x24.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1T-07x24.mkv.torrent" length="73018" type="application/x-bittorrent"/>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1T-07x24.mkv.torrent</torrent:filename>
+      <torrent:contentlength>940436658</torrent:contentlength>
+      <torrent:infohash>15DF120FAFF8EB3A38E666B7489B276FE4EC948E</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:15DF120FAFF8EB3A38E666B7489B276FE4EC948E</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x23 - Secrets and Pies | 1080p.WEB-DL | YP-1R-07x23.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x23.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Secrets and Pies; Season: 7; Episode: 23</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x23.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x23.mkv.torrent" length="72618" type="application/x-bittorrent"/>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x23.mkv.torrent</torrent:filename>
+      <torrent:contentlength>935219060</torrent:contentlength>
+      <torrent:infohash>53F15E2E404092D01212E3D9E88FD33E1BCBE1BE</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:53F15E2E404092D01212E3D9E88FD33E1BCBE1BE</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x22 - Once Upon a Zeppelin | 1080p.WEB-DL | YP-1R-07x22.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x22.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Once Upon a Zeppelin; Season: 7; Episode: 22</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x22.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x22.mkv.torrent" length="72978" type="application/x-bittorrent"/>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x22.mkv.torrent</torrent:filename>
+      <torrent:contentlength>939789923</torrent:contentlength>
+      <torrent:infohash>C1D0AE8BA2A8EAFFF8F2349C3C1C9F60ED628990</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:C1D0AE8BA2A8EAFFF8F2349C3C1C9F60ED628990</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x21 - Marks and Recreation | 1080p.WEB-DL | YP-1R-07x21.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x21.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Marks and Recreation; Season: 7; Episode: 21</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x21.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x21.mkv.torrent" length="72938" type="application/x-bittorrent"/>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x21.mkv.torrent</torrent:filename>
+      <torrent:contentlength>939523296</torrent:contentlength>
+      <torrent:infohash>93CE78A6E177EE9C0EE5ABB05AD0392E769A2A2B</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:93CE78A6E177EE9C0EE5ABB05AD0392E769A2A2B</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x20 - A Health of Information | 1080p.WEB-DL | YP-1R-07x20.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x20.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Health of Information; Season: 7; Episode: 20</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x20.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x20.mkv.torrent" length="72998" type="application/x-bittorrent"/>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x20.mkv.torrent</torrent:filename>
+      <torrent:contentlength>940209749</torrent:contentlength>
+      <torrent:infohash>FEA78327F7D3954A82BD4755F850A0496E059772</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:FEA78327F7D3954A82BD4755F850A0496E059772</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x19 - It Isn't the Mane Thing About You | 1080p.WEB-DL | YP-1R-07x19.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x19.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: It Isn't the Mane Thing About You; Season: 7; Episode: 19</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x19.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x19.mkv.torrent" length="72718" type="application/x-bittorrent"/>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x19.mkv.torrent</torrent:filename>
+      <torrent:contentlength>936615925</torrent:contentlength>
+      <torrent:infohash>802E246A9C33AC24A3B4767A3F9DB40D289A84BE</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:802E246A9C33AC24A3B4767A3F9DB40D289A84BE</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x18 - Daring Done? | 1080p.WEB-DL | YP-1R-07x18.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x18.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Daring Done?; Season: 7; Episode: 18</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x18.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x18.mkv.torrent" length="72818" type="application/x-bittorrent"/>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x18.mkv.torrent</torrent:filename>
+      <torrent:contentlength>937700737</torrent:contentlength>
+      <torrent:infohash>EF8D65369A61871F1C0FA897925C8CCBBC719586</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:EF8D65369A61871F1C0FA897925C8CCBBC719586</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x17 - To Change a Changeling | 1080p.WEB-DL | YP-1R-07x17.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x17.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: To Change a Changeling; Season: 7; Episode: 17</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x17.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x17.mkv.torrent" length="73018" type="application/x-bittorrent"/>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x17.mkv.torrent</torrent:filename>
+      <torrent:contentlength>940443559</torrent:contentlength>
+      <torrent:infohash>8436B32D9A85E8AC656D475A19B2B948E3143BDD</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:8436B32D9A85E8AC656D475A19B2B948E3143BDD</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x16 - Campfire Tales | 1080p.WEB-DL | YP-1R-07x16.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x16.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Campfire Tales; Season: 7; Episode: 16</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x16.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x16.mkv.torrent" length="72598" type="application/x-bittorrent"/>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x16.mkv.torrent</torrent:filename>
+      <torrent:contentlength>934822838</torrent:contentlength>
+      <torrent:infohash>5001C1B7C9BE118A7CA8B78E698FF5C255FA0263</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:5001C1B7C9BE118A7CA8B78E698FF5C255FA0263</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x15 - Triple Threat | 1080p.WEB-DL | YP-1R-07x15.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x15.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Triple Threat; Season: 7; Episode: 15</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x15.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x15.mkv.torrent" length="72958" type="application/x-bittorrent"/>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x15.mkv.torrent</torrent:filename>
+      <torrent:contentlength>939771929</torrent:contentlength>
+      <torrent:infohash>3646D4A134722CE7116F6E054F3258D8A2BBDAF8</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:3646D4A134722CE7116F6E054F3258D8A2BBDAF8</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x14 - Fame and Misfortune | 1080p.WEB-DL | YP-1R-07x14.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x14.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fame and Misfortune; Season: 7; Episode: 14</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x14.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x14.mkv.torrent" length="73278" type="application/x-bittorrent"/>
+      <pubDate>Sat, 12 Aug 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x14.mkv.torrent</torrent:filename>
+      <torrent:contentlength>943979823</torrent:contentlength>
+      <torrent:infohash>AB4C094E555B670ACB2FAB347C3703ED400B83F7</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:AB4C094E555B670ACB2FAB347C3703ED400B83F7</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x13 - The Perfect Pear | 1080p.WEB-DL | YP-1R-07x13.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x13.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: The Perfect Pear; Season: 7; Episode: 13</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x13.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x13.mkv.torrent" length="72998" type="application/x-bittorrent"/>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x13.mkv.torrent</torrent:filename>
+      <torrent:contentlength>940241679</torrent:contentlength>
+      <torrent:infohash>B5A4186426907FDD4E2E4B330343E72EA8951A55</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:B5A4186426907FDD4E2E4B330343E72EA8951A55</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x12 - Discordant Harmony | 1080p.WEB-DL | YP-1R-07x12.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x12.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Discordant Harmony; Season: 7; Episode: 12</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x12.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x12.mkv.torrent" length="73158" type="application/x-bittorrent"/>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x12.mkv.torrent</torrent:filename>
+      <torrent:contentlength>942260674</torrent:contentlength>
+      <torrent:infohash>D435CAC2DF72DD6235C5C55C248C201ACA613B30</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:D435CAC2DF72DD6235C5C55C248C201ACA613B30</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x11 - Not Asking for Trouble | 1080p.WEB-DL | YP-1R-07x11.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x11.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Not Asking for Trouble; Season: 7; Episode: 11</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x11.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x11.mkv.torrent" length="72988" type="application/x-bittorrent"/>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x11.mkv.torrent</torrent:filename>
+      <torrent:contentlength>939893423</torrent:contentlength>
+      <torrent:infohash>4E046EA4B86DFBB0053365D9C89BBAFF0F43748F</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:4E046EA4B86DFBB0053365D9C89BBAFF0F43748F</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x10 - A Royal Problem | 1080p.WEB-DL | YP-1R-07x10.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x10.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Royal Problem; Season: 7; Episode: 10</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x10.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x10.mkv.torrent" length="72528" type="application/x-bittorrent"/>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x10.mkv.torrent</torrent:filename>
+      <torrent:contentlength>933812160</torrent:contentlength>
+      <torrent:infohash>8305B62E304C16B2812210FB8348E34A273F0807</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:8305B62E304C16B2812210FB8348E34A273F0807</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x09 - Honest Apple | 1080p.WEB-DL | YP-1R-07x09.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x09.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Honest Apple; Season: 7; Episode: 09</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x09.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x09.mkv.torrent" length="73288" type="application/x-bittorrent"/>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x09.mkv.torrent</torrent:filename>
+      <torrent:contentlength>943720376</torrent:contentlength>
+      <torrent:infohash>A3203D6E04553B49DD4D00A57BFFB799F483D0C5</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:A3203D6E04553B49DD4D00A57BFFB799F483D0C5</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x08 - Hard to Say Anything | 1080p.WEB-DL | YP-1R-07x08.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x08.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Hard to Say Anything; Season: 7; Episode: 08</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x08.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x08.mkv.torrent" length="73228" type="application/x-bittorrent"/>
+      <pubDate>Sat, 27 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x08.mkv.torrent</torrent:filename>
+      <torrent:contentlength>943037094</torrent:contentlength>
+      <torrent:infohash>25E073CEAE6A3F087BBD18177F33CB3C9FA0BD06</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:25E073CEAE6A3F087BBD18177F33CB3C9FA0BD06</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x07 - Parental Glideance | 1080p.WEB-DL | YP-1R-07x07.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x07.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Parental Glideance; Season: 7; Episode: 07</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x07.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x07.mkv.torrent" length="73228" type="application/x-bittorrent"/>
+      <pubDate>Sat, 20 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x07.mkv.torrent</torrent:filename>
+      <torrent:contentlength>943081303</torrent:contentlength>
+      <torrent:infohash>FA87103221A903C879C4E85302A248523C045CE0</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:FA87103221A903C879C4E85302A248523C045CE0</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x06 - Forever Filly | 1080p.WEB-DL | YP-1R-07x06.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x06.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Forever Filly; Season: 7; Episode: 06</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x06.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x06.mkv.torrent" length="72828" type="application/x-bittorrent"/>
+      <pubDate>Sat, 13 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x06.mkv.torrent</torrent:filename>
+      <torrent:contentlength>937758142</torrent:contentlength>
+      <torrent:infohash>D74A1CB88C3D2E6FDA60F6D91547BFFDB7A4F787</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:D74A1CB88C3D2E6FDA60F6D91547BFFDB7A4F787</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x05 - Fluttershy Leans In | 1080p.WEB-DL | YP-1R-07x05.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x05.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Fluttershy Leans In; Season: 7; Episode: 05</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x05.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x05.mkv.torrent" length="73368" type="application/x-bittorrent"/>
+      <pubDate>Sat, 06 May 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x05.mkv.torrent</torrent:filename>
+      <torrent:contentlength>945006747</torrent:contentlength>
+      <torrent:infohash>7A88EBDEB1A0D8CA4C134C7348C9226FE454E15A</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:7A88EBDEB1A0D8CA4C134C7348C9226FE454E15A</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x04 - Rock Solid Friendship | 1080p.WEB-DL | YP-1R-07x04.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x04.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Rock Solid Friendship; Season: 7; Episode: 04</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x04.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x04.mkv.torrent" length="73088" type="application/x-bittorrent"/>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x04.mkv.torrent</torrent:filename>
+      <torrent:contentlength>941132563</torrent:contentlength>
+      <torrent:infohash>CB5D75B5B9B05A23E7582C964D1F3F6387C3C0E9</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:CB5D75B5B9B05A23E7582C964D1F3F6387C3C0E9</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x03 - A Flurry of Emotions | 1080p.WEB-DL | YP-1R-07x03.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x03.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: A Flurry of Emotions; Season: 7; Episode: 03</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x03.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x03.mkv.torrent" length="72648" type="application/x-bittorrent"/>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x03.mkv.torrent</torrent:filename>
+      <torrent:contentlength>935513900</torrent:contentlength>
+      <torrent:infohash>8C9689DBE1FD5212F33AB3ED925BE269F2FF9DA4</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:8C9689DBE1FD5212F33AB3ED925BE269F2FF9DA4</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x02 - All Bottled Up | 1080p.WEB-DL | YP-1R-07x02.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x02.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: All Bottled Up; Season: 7; Episode: 02</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x02.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x02.mkv.torrent" length="72828" type="application/x-bittorrent"/>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x02.mkv.torrent</torrent:filename>
+      <torrent:contentlength>937797061</torrent:contentlength>
+      <torrent:infohash>938281C5B82EE0D6BB8BDBA205FD9DBEFCA4A882</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:938281C5B82EE0D6BB8BDBA205FD9DBEFCA4A882</torrent:magneturi>
+    </item>
+    <item>
+      <title>My Little Pony, Friendship is Magic - 07x01 - Celestial Advice | 1080p.WEB-DL | YP-1R-07x01.mkv | YayPonies</title>
+      <link>https://yp.coco-pommel.org/ypvideo/YP-1R-07x01.mkv</link>
+      <description>Show Name: My Little Pony, Friendship is Magic; Episode Title: Celestial Advice; Season: 7; Episode: 01</description>
+      <guid isPermaLink="false">http://yp1.yayponies.no/videos/torrents/YP-1R-07x01.mkv.torrent</guid>
+      <enclosure url="http://yp1.yayponies.no/videos/torrents/YP-1R-07x01.mkv.torrent" length="73248" type="application/x-bittorrent"/>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 -0600</pubDate>
+      <torrent:filename>YP-1R-07x01.mkv.torrent</torrent:filename>
+      <torrent:contentlength>943228172</torrent:contentlength>
+      <torrent:infohash>FEFC753EB691860CA7CC74AE8CAF671B6217A729</torrent:infohash>
+      <torrent:magneturi>magnet:?xt=urn:btih:FEFC753EB691860CA7CC74AE8CAF671B6217A729</torrent:magneturi>
+    </item>
