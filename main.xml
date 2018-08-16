@@ -3,9 +3,23 @@
     <title>My Little Pony G4 Episodes</title>
     <link>https://raw.githubusercontent.com/B3ATDROP3R/YayPoneKodiPluginTest/master/1it.xml</link>
   </dir>
+  
+   <dir>
+    <title>My Little Pony G4 Season 8</title>
+    <link>https://raw.githubusercontent.com/B3ATDROP3R/YayPoneKodiPluginTest/master/s8.xml</link>
+  </dir>
 
   <dir>
     <title>MLP Movies</title>
     <link> s 0 n </link>
   </dir>
 </xml>
+
+
+
+
+
+
+
+
+
