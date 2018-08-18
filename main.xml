@@ -1,7 +1,8 @@
 <xml>
    <dir>
-      logo= "https://images-na.ssl-images-amazon.com/images/I/91wZxXh5-8L._RI_.jpg"
+      
     <title>My Little Pony G4 Season 8</title>
+      <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91wZxXh5-8L._RI_.jpg</thumbnail>
     <link>https://raw.githubusercontent.com/B3ATDROP3R/YayPoneKodiPluginTest/master/s8.xml</link>
         <summary>test description also dan is giey</summary>
   </dir>
